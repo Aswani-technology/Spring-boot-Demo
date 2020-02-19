@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoSecurityApplication<demo-springboot-security>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.springboot2.security.demosecurity.DemoSecurityApplication",
+            "projectName": "demo-springboot-security",
+            "args": ""
+        }
+    ]
+}
